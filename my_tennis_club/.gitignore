@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Local development settings
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Static files (if using a different location)
+/static/
+
+# Media files (if using a different location)
+/media/
+
+# Secret keys
+*.secret
+
+# Environment variables file (if using)
+.env
+
+# Ignore migration files if you prefer
+# Comment the line below if you wish to include them
+**/migrations/
